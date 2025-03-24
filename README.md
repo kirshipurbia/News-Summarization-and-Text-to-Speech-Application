@@ -1,6 +1,8 @@
 # How to deploy at Hugging face spaces
-1.Create a free Hugging Face account: /n
+1.Create a free Hugging Face account:  
+
 👉 https://huggingface.co/join
+
 2.Click on "New Space" from the dashboard.
 3.Set the space name and visibility (Public/Private as per your preference).
 4.In the Settings tab:
