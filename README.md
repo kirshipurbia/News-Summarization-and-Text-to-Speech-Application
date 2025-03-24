@@ -1,4 +1,4 @@
-# How to deploy at Hugging face spaces
+# How to deploy on Hugging face space
 1.Create a free Hugging Face account:  
 
 -->https://huggingface.co/join
